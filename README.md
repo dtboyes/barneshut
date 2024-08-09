@@ -6,7 +6,10 @@ The Barnes-Hut algorithm makes use of a heuristic that avoids explicitly computi
 There are 3 separate functionalities.
 1. Two galaxies rotating in space
 ```./BarnesHut galaxy```
+![galaxy out](https://github.com/user-attachments/assets/67ea5cb3-bb4f-4ce4-bcf8-a352dd2fd291)
 2. Two galaxies colliding
 ```./BarnesHut collision```
+![collision out](https://github.com/user-attachments/assets/8b6c125f-8b30-4c93-92b5-3e2829599eb3)
 3. A simulation of jupiter's gravity
 ```./BarnesHut jupiter```
+![jupiter out](https://github.com/user-attachments/assets/aa979293-8c2d-415a-a02b-b8ad37bdc95a)
